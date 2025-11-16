@@ -137,7 +137,7 @@
     "inherits": "2.0.4",
     "jimp": "0.6.8",
     "js-sha3": "0.8.0",
-    "js-yaml": "3.13.1",
+    "js-yaml": "4.1.1",
     "jsmediatags": "3.8.1",
     "lerp": "1.0.3",
     "linkify-react": "4.1.0",

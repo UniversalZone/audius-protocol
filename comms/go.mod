@@ -1,6 +1,6 @@
 module comms.audius.co
 
-go 1.23.1
+go 1.24.0
 
 toolchain go1.24.1
 
@@ -16,7 +16,7 @@ require (
 	github.com/spf13/cobra v1.8.1
 	github.com/stretchr/testify v1.10.0
 	github.com/vmihailenco/msgpack/v5 v5.4.1
-	golang.org/x/sync v0.10.0
+	golang.org/x/sync v0.18.0
 	google.golang.org/protobuf v1.36.4
 )
 
@@ -84,11 +84,11 @@ require (
 	github.com/tklauser/numcpus v0.6.1 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasttemplate v1.2.2 // indirect
-	golang.org/x/crypto v0.31.0 // indirect
+	golang.org/x/crypto v0.45.0 // indirect
 	golang.org/x/exp v0.0.0-20240909161429-701f63a606c0
-	golang.org/x/net v0.33.0 // indirect
-	golang.org/x/sys v0.29.0 // indirect
-	golang.org/x/text v0.21.0 // indirect
+	golang.org/x/net v0.47.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/text v0.31.0 // indirect
 	golang.org/x/time v0.6.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )

@@ -68,7 +68,7 @@ PyNaCl==1.4.0
 requests==2.25.1
 aiohttp==3.8.5
 solana==0.30.2
-urllib3==1.26.3
+urllib3==2.6.0
 websockets==10.1
 solders==0.18.1
 # Anchor support

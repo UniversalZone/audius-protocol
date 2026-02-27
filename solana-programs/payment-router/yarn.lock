@@ -406,9 +406,9 @@ __metadata:
   linkType: hard
 
 "bn.js@npm:^5.1.2, bn.js@npm:^5.2.0, bn.js@npm:^5.2.1":
-  version: 5.2.1
-  resolution: "bn.js@npm:5.2.1"
-  checksum: bed3d8bd34ec89dbcf9f20f88bd7d4a49c160fda3b561c7bb227501f974d3e435a48fb9b61bc3de304acab9215a3bda0803f7017ffb4d0016a0c3a740a283caa
+  version: 5.2.3
+  resolution: "bn.js@npm:5.2.3"
+  checksum: eef19cb9cf5e91e91e3e0f036b799ce6c72f79463c3934d62991c3dcdb58f6c94dc3d806495d9b0bf31cd121870ed79bb2115cea71b56c03e794fb71485031fa
   languageName: node
   linkType: hard
 
@@ -2017,8 +2017,8 @@ __metadata:
   linkType: hard
 
 "tar@npm:^6.1.11, tar@npm:^6.1.2":
-  version: 6.2.0
-  resolution: "tar@npm:6.2.0"
+  version: 6.2.1
+  resolution: "tar@npm:6.2.1"
   dependencies:
     chownr: "npm:^2.0.0"
     fs-minipass: "npm:^2.0.0"
@@ -2026,7 +2026,7 @@ __metadata:
     minizlib: "npm:^2.1.1"
     mkdirp: "npm:^1.0.3"
     yallist: "npm:^4.0.0"
-  checksum: 02ca064a1a6b4521fef88c07d389ac0936730091f8c02d30ea60d472e0378768e870769ab9e986d87807bfee5654359cf29ff4372746cc65e30cbddc352660d8
+  checksum: a5eca3eb50bc11552d453488344e6507156b9193efd7635e98e867fab275d527af53d8866e2370cd09dfe74378a18111622ace35af6a608e5223a7d27fe99537
   languageName: node
   linkType: hard
 

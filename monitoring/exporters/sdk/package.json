@@ -11,9 +11,9 @@
     "keywords": [],
     "author": "",
     "dependencies": {
-      "@audius/sdk": "3.0.8-beta.11",
+      "@audius/sdk": "13.1.0",
       "prom-client": "14.0.1",
-      "web3": "1.7.5"
+      "web3": "4.16.0"
     },
     "devDependencies": {
       "nodemon": "2.0.19"

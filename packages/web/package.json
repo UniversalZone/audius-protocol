@@ -244,7 +244,7 @@
     "constants-browserify": "^1.0.0",
     "crypto-browserify": "^3.12.0",
     "csstype": "3.1.1",
-    "electron": "33.0.0",
+    "electron": "39.8.4",
     "electron-builder": "25.1.8",
     "env-cmd": "8.0.2",
     "esbuild-plugin-react-virtualized": "1.0.4",

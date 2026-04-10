@@ -50,7 +50,7 @@
     "fxa-common-password-list": "0.0.2",
     "hashids": "2.2.1",
     "immer": "9.0.1",
-    "lodash": "4.17.21",
+    "lodash": "4.18.1",
     "numeral": "2.0.6",
     "object-hash": "2.2.0",
     "proxy-memoize": "3.0.1",

@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@audius/sdk": "5.0.0",
-    "@hono/node-server": "^1.13.7",
+    "@hono/node-server": "^1.19.13",
     "@pedalboard/basekit": "*",
     "@pedalboard/logger": "*",
     "@pedalboard/storage": "*",
@@ -24,7 +24,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.17.1",
-    "hono": "^4.6.17",
+    "hono": "^4.12.12",
     "morgan": "^1.10.0",
     "postgres": "^3.4.5",
     "cross-fetch": "4.0.0"

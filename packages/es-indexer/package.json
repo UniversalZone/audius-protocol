@@ -26,7 +26,7 @@
     "@elastic/elasticsearch": "8.1.0",
     "commander": "9.2.0",
     "knex": "^2.1.0",
-    "lodash": "4.17.21",
+    "lodash": "4.18.1",
     "pg": "8.7.3",
     "pg-cursor": "2.7.3",
     "pino": "7.11.0",
